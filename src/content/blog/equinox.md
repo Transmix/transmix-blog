@@ -41,6 +41,6 @@ pubDate: 2024-01-01
 ## 5. Juego de Bujes.
 ![Juego de Bujes](../../assets/americanos/chevrolet/equinox/juego-de-bujes.jpg)
 ## 6. Banda.
-![Banda](../../assets/americanos/chevrolet/equinox/banda.jpg)
+![Banda](../../assets/americanos/chevrolet/equinox/Banda.jpg)
 ## 7. Filtro.
 ![Juego de Bujes](../../assets/americanos/chevrolet/equinox/filtro.jpg)

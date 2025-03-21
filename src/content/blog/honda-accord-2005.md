@@ -19,4 +19,4 @@ siguientes codigos de falla
 
 Se Reparo Transmision se encontraron Ligas y Pistones duros Tambien el tubo de cuerpo de valvulas se encontro rota y filtro tapado aceite muy sucio o tapado
 
-![Carter](../../assets/asian/honda/accord/tubo-roto.jpg)
+![Carter](../../assets/asian/honda/accord/tubo-roto.jpg)s

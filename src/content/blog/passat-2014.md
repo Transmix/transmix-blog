@@ -17,13 +17,3 @@ La Transmisión Automática patina y golpea en 3ra velocidad y al poner reversa 
 - Tambor K3 pista donde trabaja teflon remarcado 
     ![K3](../../assets/europeos/volkswagen/passat/clutch-k3.PNG)
 - Aceite al parecer parece mezclado con aceite de motor se cambio turbina
-
-
-
-
-## Future Trends
-
-- AI-powered development tools
-- No-code and low-code platforms
-- Improved performance APIs
-- Enhanced security features

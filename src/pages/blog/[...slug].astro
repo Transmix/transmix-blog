@@ -10,7 +10,7 @@ export async function getStaticPaths() {
   }));
 }
 
-const { post } = Astro.props;
+const { post, } = Astro.props;
 const { Content } = await post.render();
 ---
 
@@ -51,6 +51,11 @@ const { Content } = await post.render();
     object-fit: cover;
     transition: transform 0.3s ease;
   }
+
+  /**img.zoomed{
+    transform:scale(1.5);
+    cursor: zoom-out;
+  }**/
 
 
   .image-container:hover img {

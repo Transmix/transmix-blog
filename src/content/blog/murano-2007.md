@@ -15,8 +15,8 @@ Transmision No Aplica en 1ra Velocidad se patina hay que aplicarlo en 1ra manual
 
 - Tiene Codigos de falla hay que escanear para saber que otras fallas tiene motor 
 - Cubrepolvos de direccion Rotos
-- Cubrepolvos de Flechas Homocineticxas Rotas
-- Fuga de Motor Falta revisar con mas detalle para encontrar fuente
+- Cubrepolvos de Flechas Homocineticas Rotas
+- Fuga de aceite Motor Falta revisar con mas detalle para encontrar fuente
 - Clima No Sirve
 - Soporte Roto 
 

@@ -10,13 +10,21 @@ interface Props {
 const { title, description, image, slug, pubDate} = Astro.props;
 ---
 
-<article class="bento-item">
-  <a href={`/blog/${slug}`}><div class="content">
-    <h2>{title}</h2>
-    <p>{description}
-    </p>
-  </div>
-  {image && <div class="image-overlay" style={`background-image: url(${image})`} />}</a>
+<article>
+
+  <a href={`/blog/${slug}`} class="flex-col mt-8 lg:-mx-6 lg:items-center  text-gray-400 ">
+    <div class=" lg:flex">
+      <img class="object-cover w-full lg:mx-6 lg:w-1/2 rounded-xl h-72 lg:h-96" src={image} />
+    
+      <div class="flex flex-col justify-between p-4 ">
+        <h2 class="text-2xl font-bold dark:text-gray-300 md:text-3xl hover:underline">{title}</h2>
+        <p class="mt-3 text-sm  dark:text-gray-300 font-normal hover:underline">{description}</p>
+      </div>
+    </div>
+  <!--{image && <div class="block md:hidden lg:block rounded-md h-64 md:h-32 m-4 md:m-0" style={`background-image: url(${image})`} />}-->
+  
+  </a>
+
 </article>
 
 <style>
@@ -25,7 +33,7 @@ const { title, description, image, slug, pubDate} = Astro.props;
     overflow: hidden;
     grid-column: span 2;
     grid-row: span 2;
-    aspect-ratio: 1;
+    
   }
 
   .image-overlay {

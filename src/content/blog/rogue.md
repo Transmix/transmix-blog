@@ -2,7 +2,7 @@
 title: "Nissan Rogue 2013"
 description: "Transmision presenta codigos de falla P1740 (Presente) y codigos Historicos (P0720, P0725, P0746, P0868) Codigos Motor (P0304, P0720, P1740, P1715)"
 category: "Codigos de Falla" 
-image: "/kicks.png"
+image: "/rogue-reparacion.jpeg"
 pubDate: 2025-01-02
 ---
 
@@ -25,7 +25,7 @@ pubDate: 2025-01-02
 - **P0868** Presión de fluido bajo (Historico)
 
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 El Codigo de falla presente P1740 es Referente al solenoide TCC o solenoide de aplicacion de embrague de turbina de la transmision CVT.
 

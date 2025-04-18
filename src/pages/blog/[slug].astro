@@ -15,7 +15,7 @@ const { Content } = await post.render();
 ---
 
 <Layout title={post.data.title}>
-  <article class="bento-item post-content">
+  <article>
     {post.data.image && (
       <div class="image-container">
         <img src={post.data.image} alt={post.data.title} />

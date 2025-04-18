@@ -20,11 +20,11 @@ const { title } = Astro.props;
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
   </head>
-  <body>
+  <body class="md:px-4">
 
     <Header />
     
-    <div class="px-6 py-8">
+    <div class="md:px-6 md:py-8 px-2 py-4">
       <div class="container flex justify-between mx-auto">
         <div class="w-full" >
       
@@ -51,7 +51,7 @@ const { title } = Astro.props;
 
   body {
     margin: 0rem;
-    padding: 2rem;
+    /**padding: 2rem;**/
     min-height: 100vh;
   }
 
@@ -119,18 +119,32 @@ const { title } = Astro.props;
     font-size: 40px;
   }
   h2 {
-    font-size: 40px,
+    font-size: 40px;
     color: #33ccff;
+    padding-bottom: 5px;
   }
 
   h3 {
     font-size: 30px;
     color: #00bfff;
+    padding-bottom: 5px;
   }
   h4 {
     font-size: 20px;
     color: #00bfff;
+    padding-bottom: 5px;
   }
+  @media  (max-width:500px) and (min-width:200px) {
+    h2{
+       font-size: 30px;
+    }
+    h3{
+       font-size: 20px;
+    }
+    h4{
+       font-size: 15px;
+    }
+}
 
 
   @keyframes fadeInUp {

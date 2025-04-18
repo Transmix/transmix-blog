@@ -1,6 +1,7 @@
 ---
 title: "Caso Volkswagen Passat 2014 Motor 2.5 Transmision 6 velocidades"
 description: "La Transmision Automatica patina 3ra Velocidad y al poner Reversa tambien se detiene o se para motor."
+category: "Reparacion Transmision"
 image: "/passat.png"
 pubDate: 2024-01-10
 --- 

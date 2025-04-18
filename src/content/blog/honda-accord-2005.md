@@ -1,6 +1,7 @@
 ---
 title: "Honda Accord 2005"
 description: "Transmisión se patina en 3ra"
+category: "Reparacion Transmision" 
 image: "Honda-Accord-2005.png"
 pubDate: 2024-01-09
 ---

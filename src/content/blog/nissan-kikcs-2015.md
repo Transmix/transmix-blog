@@ -1,6 +1,7 @@
 ---
 title: "Nissan Kick 2015"
 description: "Transmision se queda sin drive solo hay Reversa."
+category: "Reparacion Transmision" 
 image: "/kicks.png"
 pubDate: 2025-01-02
 ---

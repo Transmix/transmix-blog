@@ -1,6 +1,7 @@
 ---
 title: "Ford Focus 2014"
 description: "Transmisión Presenta codigo de falla P285D"
+category: "Codigo de Falla"
 image: "/tablero-focus.jpg"
 pubDate: 2024-01-07
 ---

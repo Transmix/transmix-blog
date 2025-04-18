@@ -1,6 +1,7 @@
 ---
 title: "Equinox"
 description: "Transmisión suelta a Reparación no avanza"
+category: "Reparacion Transmision" 
 image: "/AF33-Transmision.jpg"
 pubDate: 2024-01-01
 ---

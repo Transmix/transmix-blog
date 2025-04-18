@@ -1,6 +1,7 @@
 ---
 title: "Nissan Murano 2007 "
 description: "Transmision no aplica en 1ra Velocidad se patina"
+category: "Reparacion Transmision" 
 image: "/2007-nissan-murano-se-awd-suv-angular-front.png"
 pubDate: 2025-03-15
 ---

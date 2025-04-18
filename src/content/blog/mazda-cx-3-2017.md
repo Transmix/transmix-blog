@@ -1,6 +1,7 @@
 ---
 title: "Mazda CX-3 2017 "
 description: "Transmisioon se patina en 1ra 3ra y 5ta velocidad"
+category: "Reparacion Transmision" 
 image: "/mazda-cx-3-2017.png"
 pubDate: 2025-03-15
 ---

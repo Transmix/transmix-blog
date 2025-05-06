@@ -1,21 +1,20 @@
 ---
-title: "Audi 2015 motor 1.4 lt"
+title: "Audi A3 2015 motor 1.4 lt"
 description: "Transmision presenta codigos de falla  (Presentes) (P2797, P0B0C, U0415, P17BF ) Codigos Motor (U1123, U0428, P0017, P0300, P0301, P164A, P2227, P0221, P0302, P130A)"
 category: "Codigos de Falla" 
 image: "/audi-a3-2015.png"
 pubDate: 2025-05-02
 ---
 
-## Audi 2015 Motor 1.4 LT
+# Audi A3 2015 Motor 1.4 LT
 
-### Problemas encontrados
+## Problemas encontrados
 
-- Fuga En Mecatronica en cubrepolvos de acordion}
+### Fuga En Mecatronica en cubrepolvos de acordion}
 ![Cubrepolvo Acordion](../../assets/europeos/audi/a3/2015/0am/cubrepolvo-acordion.png)
-- Empaque de carter Roto
+### Empaque de carter Roto
 ![empaque Carter](../../assets/europeos/audi/a3/2015/0am/empaque-roto.jpg)
-- Codigos de falla de Transmision
-- Codigos de falla de Motor
+
 
 ### Codigos de Falla Motor
 
@@ -41,7 +40,7 @@ pubDate: 2025-05-02
 - **B116816** sensor de ángulo de giro del volante - Tension isuficiente (Posible causa por desconectar bateria)
 - **U1123**   Bus de datos, valor erroneo recibido
 
-### Codigos de Falla Transmision
+### Posibles soluciones y causas Codigos de Falla Transmision
 
 ![Transmision](../../assets/europeos/audi/a3/2015/0am/0am-gearbox.png)
 
@@ -119,6 +118,6 @@ Arrancar en segunda marcha de repente.
 Problemas de vibración al acelerar. 
 Solución:
 La solución más común es la reconstrucción o reemplazo del cuerpo hidráulico de la mecatrónica, que es donde se encuentra la bomba y otros componentes hidráulicos. 
-En algunos casos, puede ser necesario realizar una limpieza o reparación de otros componentes, como los embragues, según un artículo de Service. 
+En algunos casos, puede ser necesario realizar una limpieza o reparación de otros componentes, como los embragues. 
 
 En Caso de requerirse el modulo de la mecatronica este seria solicitarlo ya que requiere un ermanado con los demas modulos para poder instalarlo con su vehiculo.

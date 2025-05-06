@@ -70,7 +70,7 @@ Soluciones:
 
 Si el código **P2797** es el único código establecido, la solución más probable es reemplazar la bomba auxiliar de fluido de transmisión. 
 Si hay otros códigos establecidos, es importante seguir los procedimientos de diagnóstico apropiados para identificar y solucionar el problema principal. 
-En algunos casos, puede ser necesario revisar el cableado, el módulo de control del inversor de potencia o el módulo de control de la transmisión. 
+En algunos casos, puede ser el cableado,o el modulo de la mecatronica. 
 
 ### Descripcion y Causa Codigo de falla P0B0C
 
@@ -119,4 +119,6 @@ Arrancar en segunda marcha de repente.
 Problemas de vibración al acelerar. 
 Solución:
 La solución más común es la reconstrucción o reemplazo del cuerpo hidráulico de la mecatrónica, que es donde se encuentra la bomba y otros componentes hidráulicos. 
-En algunos casos, puede ser necesario realizar una limpieza o reparación de otros componentes, como los embragues, según un artículo de Service4Service. 
+En algunos casos, puede ser necesario realizar una limpieza o reparación de otros componentes, como los embragues, según un artículo de Service. 
+
+En Caso de requerirse el modulo de la mecatronica este seria solicitarlo ya que requiere un ermanado con los demas modulos para poder instalarlo con su vehiculo.
